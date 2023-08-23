@@ -8,9 +8,6 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://firebasestorage.googleapis.com/v0/b/delabel-net-1.appspot.com/o/WhatsApp%20Image%202023-08-03%20at%2017.39.19.jpg?alt=media&token=550f8370-5664-4377-986b-987ae1329944"  />
-
 ###
 
 <div align="left">
